@@ -1,1 +1,2 @@
-# Color Difference
+# OpenSourceRepoTemplate
+OpenSourceRepoTemplate
